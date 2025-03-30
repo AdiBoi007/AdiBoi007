@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **adog0180@uni.sydney.edu.au**
 
-- ⚡ Fun fact **I once pitched a startup to Shark Tank India Sharks Aman Gupta & Anupam Mittal and survived. 💀🔥**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
