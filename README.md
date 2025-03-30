@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Adhiraj Dogra</h1>
+<h1 align="center">Hi , I'm Adhiraj Dogra</h1>
 <h3 align="center">I’m an AI/ML developer and MERN stack enthusiast, currently pursuing Software Engineering at the University of Sydney.</h3>
 
-- 🔭 I’m currently working on **Ingenium AI – AI-powered Learning platform**
+- 🔭 I’m currently working on **Ingenium  – An AI-powered Learning platform**
 
 - 🌱 I’m currently learning **Next.js, Astro, Advanced NLP, Neo4j, and Reinforcement Learning**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AI pipelines, GPT-4 projects,Python tricks, or starting young 🚀**
 
-- 📫 How to reach me **adog0180@uni.sydney.edu.au**
+- 📫 Reach out to me using: **adog0180@uni.sydney.edu.au**
 
 
 
