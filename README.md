@@ -1,117 +1,167 @@
-<!-- =======================
-  Adhiraj Dogra — GitHub Profile README
-  Portfolio: adhirajdogra.com
-  GitHub: AdiBoi007
-======================== -->
+<!--
+  ✅ Put this in a repo named exactly: AdiBoi007 (or your GitHub username)
+  ✅ Then add it as your Profile README.
+-->
 
-<!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Adhiraj%20Dogra&fontAlign=50&fontAlignY=35&color=0:0A66C2,100:7C3AED&fontSize=55&animation=fadeIn" />
+<!-- Top animated banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Adhiraj%20Dogra&fontAlign=50&fontAlignY=36&desc=AI%20%2B%20Full-Stack%20Engineer%20%E2%80%A2%20Founder%20%40%20Ingenium%20(INCUBATE)%20%E2%80%A2%20Shipping%20Real%20Products&descAlign=50&descAlignY=60&color=0:0A66C2,50:7C3AED,100:111827&fontColor=ffffff&descColor=E5E7EB&animation=fadeIn&fontSize=62" />
 
-<h1 align="center">Hey there 👋 I’m Adhiraj</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+AI+%2B+Full-Stack+Builder;Founder+%40+Ingenium+(INCUBATE)+%7C+Shipping+Enterprise+Wins;RAG+Assistants+%E2%80%A2+Data+Pipelines+%E2%80%A2+Dashboards+%E2%80%A2+MVPs" alt="Typing SVG" />
+<h1>Hey there 👋 I'm <span style="color:#0A66C2;">Adhiraj</span></h1>
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+%40+University+of+Sydney;AI+%2B+Full-Stack+Builder+%E2%80%A2+RAG+Assistants+%E2%80%A2+Data+Pipelines+%E2%80%A2+Dashboards;Founder+%40+Ingenium+(INCUBATE)+%E2%80%A2+Ship+fast%2C+measure+impact;NLP+%E2%80%A2+Computer+Vision+%E2%80%A2+LLMs+%E2%80%A2+Game+Dev" alt="Typing SVG" />
+</a>
+
+<!-- CTA badges -->
+<p>
+  <a href="https://adhirajdogra.com">
+    <img src="https://img.shields.io/badge/Portfolio-adhirajdogra.com-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://adhirajdogra.com/resume/resume.html">
+    <img src="https://img.shields.io/badge/Resume-View-16A34A?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/adhiraj-dogra">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adog0180@uni.sydney.edu.au">
+    <img src="https://img.shields.io/badge/Email-adog0180%40uni.sydney.edu.au-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://adhirajdogra.com"><img src="https://img.shields.io/badge/Portfolio-adhirajdogra.com-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://adhirajdogra.com/resume/resume.html"><img src="https://img.shields.io/badge/Resume-View-16A34A?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/adhiraj-dogra"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:adog0180@uni.sydney.edu.au"><img src="https://img.shields.io/badge/Email-adog0180%40uni.sydney.edu.au-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=AdiBoi007&style=flat-square&color=0A66C2" />
-  <img src="https://img.shields.io/badge/Based%20in-Sydney%2C%20AU-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Sydney%2C%20Australia-7C3AED?style=flat-square" />
 </p>
 
----
-
-## ⚡ Snapshot
-
-- 🧠 **Software Engineering @ University of Sydney** (2023–2027)
-- 🚀 **Founder @ Ingenium (INCUBATE)** — AI-first learning platform (real-time tutoring + adaptive learning)
-- 🛠️ **Software Engineer & Data Analyst @ Smart IT Solutions** — RAG assistants, AI receptionists, KPI dashboards, automations & high-performance web builds
-- 🤖 Interests: **NLP • Computer Vision • LLMs • Data Pipelines • Product MVPs**
-- 🎮 Also build: **AI-driven games** (LibGDX / Unity / Unreal)
+</div>
 
 ---
 
-## 🔥 What I Ship
+## ⚡ Quick Snapshot (what I actually do)
 
-✅ **AI products**: RAG/GPT assistants over docs/FAQs, sentiment pipelines, LLM-powered tooling  
-✅ **Growth + analytics**: KPI dashboards (CAC/LTV/ROI), tracking rebuilds, automations (Stripe/CRM/Zapier)  
-✅ **Web performance**: fast landing pages, Core Web Vitals upgrades, ecommerce optimisations  
-✅ **Systems mindset**: reliable pipelines, clean APIs, measurable outcomes
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🚀 Shipping Focus
+- **AI assistants (RAG/GPT)** over docs/FAQs & workflows  
+- **Data pipelines + analytics** (sentiment, governance, KPI dashboards)  
+- **Full-stack delivery** (fast landing pages, product MVPs, performance)  
+- **Practical ML** (NLP, CV, model evaluation + iteration)
+
+### 🧠 Current Roles
+- **Founder @ Ingenium (INCUBATE)** — AI-first learning platform  
+- **Software Engineer & Data Analyst** — enterprise + SMB builds
+
+</td>
+<td width="45%" valign="top">
+
+### ✅ Currently
+- 🔭 Building: **AI education + automation products**
+- 🧪 Learning: **LLM fine-tuning, stronger RAG + eval**
+- 🤝 Open to: **AI product collabs / full-stack MVPs**
+- 🎮 Side quest: **AI-driven game dev**
+
+### 🔗 Featured Links
+- 🌐 Portfolio: **adhirajdogra.com**
+- 🧾 Resume: **/resume/resume.html**
+- 🧠 Ingenium: **ingenx0.com**
+- 🏥 Swasth: **swaasthyaa.com**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧩 Featured Projects
+## 🧰 Tech Stack (Core)
 
-> Tip: replace repo links once they’re public — this section becomes your “pinned” story even before pins.
+<div align="center">
 
-| Project | What it does | Stack | Live / Link |
+<!-- Core engineering -->
+<img src="https://skillicons.dev/icons?i=python,java,c,r,js,ts,react,nodejs,flask,fastapi,postgres,mysql,git,github,docker&perline=8" />
+
+<br/>
+
+<!-- AI / data -->
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=8" />
+
+</div>
+
+<details>
+<summary><b>More tools I use (AI / Data / Product)</b></summary>
+
+- **AI/ML:** Deep Learning, NLP, Computer Vision, OpenAI API, Hugging Face Transformers  
+- **Data & Graph:** Scikit-Learn, NLTK, BeautifulSoup, Neo4j  
+- **Backend:** REST APIs, ETL pipelines, governance workflows  
+- **Games:** LibGDX, Unity (C#), Unreal (Blueprints), Box2D, SQLite, OpenGL Shaders  
+- **Product Delivery:** rapid builds, measurable outcomes, iteration loops
+
+</details>
+
+---
+
+## 🌟 Highlight Projects (from my portfolio)
+
+> Replace “(repo)” with your actual repository links whenever you publish them.
+
+| 🚀 Project | What it is | Stack | Link |
 |---|---|---|---|
-| **Ingenium / iNGEN** | AI-powered education platform for real-time tutoring + adaptive learning | React/Next.js, Python, OpenAI, Postgres | https://ingenx0.com |
-| **Swasth AI** | AI healthcare assistant for diagnostics + patient monitoring | Python, ML, APIs | https://www.swaasthyaa.com |
+| **Ingenium / iNGEN** | AI-powered education platform (real-time tutoring + adaptive learning) | Full-stack + AI | https://ingenx0.com |
+| **The Swasth Initiative** | AI healthcare assistant (diagnostics + monitoring) | AI + Web | https://www.swaasthyaa.com |
 | **AssembleOne** | Team collaboration + project management platform | Full-stack | https://assembleone.com |
-| **Waypoint City** | Urban navigation & city exploration platform | Web app | https://waypointcity.vercel.app |
-| **Review Summarization & Sentiment** | Scrape → summarize → sentiment insights pipeline | Python, HF, FastAPI | (add repo link) |
-| **AI Code Auto-Fixer** | Detects & suggests fixes for Python errors (syntax + logic) | Python, AST, GPT, PyTorch, Flask | (add repo link) |
-| **Learning Recommender** | Personalized study recommendations from learning patterns | TF, Neo4j, Flask, React | (add repo link) |
-| **Medieval Strategy RPG** | 2D RPG with AI enemies + procedural maps | Java, LibGDX, Box2D | (add repo link) |
+| **Waypoint City** | Urban navigation + city exploration platform | Web app | https://waypointcity.vercel.app |
+| **Review Summarization** | Scrape → summarize → sentiment insights | Python, HF, FastAPI | (repo) |
+| **AI Code Auto-Fixer** | Detect + suggest fixes for Python errors | Python, AST, GPT, PyTorch, Flask | (repo) |
+| **Learning Recommender** | Personalized study recommendations | TF, Neo4j, Flask, React | (repo) |
+| **Medieval Strategy RPG** | 2D RPG with AI enemies + procedural maps | Java, LibGDX, Box2D | (repo) |
 
 ---
 
-## 🧰 Tech Toolbox
+## 📊 GitHub Analytics (clean + animated)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,r,js,ts,react,nextjs,nodejs,flask,postgres,mysql,git,github,docker,aws,gcp,tensorflow,pytorch&perline=10" />
-</p>
+<div align="center">
 
-<details>
-  <summary><b>More (AI / CV / Tools)</b></summary>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdiBoi007&show_icons=true&rank_icon=github&hide_title=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiBoi007&layout=compact&hide_title=true" />
 
-- **AI/ML**: Deep Learning, NLP, Computer Vision, Hugging Face Transformers, OpenAI API  
-- **CV**: OpenCV  
-- **Workflow**: Git, GitHub, REST APIs, shipping fast + iterating with feedback
-</details>
+<br/>
 
----
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdiBoi007&theme=tokyonight" />
 
-## 📈 GitHub Stats
+<br/>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdiBoi007&show_icons=true&rank_icon=github&hide_title=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiBoi007&layout=compact&hide_title=true" />
-</p>
+<img height="170" src="https://streak-stats.demolab.com?user=AdiBoi007&hide_border=true" />
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=AdiBoi007&hide_border=true" />
-</p>
+</div>
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdiBoi007&bg_color=0d1117&color=7c3aed&line=0A66C2&point=ffffff&area=true&hide_border=true" />
 
 ---
 
-## 🤝 Let’s Build
+## 🐍 Contribution Snake (Animated)
 
-I’m always open to:
-- shipping **AI features** into real products (RAG, agents, evaluation, workflows)
-- building **dashboards + pipelines** that teams actually use
-- collaborating on **full-stack MVPs** that launch fast and improve metrics
+<!--
+  This will work once you add the workflow below and the output file exists in your repo.
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdiBoi007/AdiBoi007/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-📬 Reach me at **adog0180@uni.sydney.edu.au**  
-🌐 Portfolio: **adhirajdogra.com**  
-💼 LinkedIn: **linkedin.com/in/adhiraj-dogra**
+---
 
-<details>
-  <summary><b>Quick Links</b></summary>
+## 🤝 Let’s Build Something Real
 
-- GitHub: https://github.com/AdiBoi007  
-- Resume: https://adhirajdogra.com/resume/resume.html  
-- Ingenium: https://ingenx0.com  
-</details>
+- If you’re working on **AI products**, **RAG assistants**, **dashboards**, or a **full-stack MVP** — I’m happy to collaborate.
+- I like projects with **real users**, **clear metrics**, and **fast iteration**.
 
-<!-- Footer banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0A66C2,100:7C3AED&section=footer&text=Building%20the%20future%20with%20code%20and%20creativity&fontSize=20&fontAlignY=70" />
+📬 **adog0180@uni.sydney.edu.au**  
+🌐 **adhirajdogra.com**  
+💼 **linkedin.com/in/adhiraj-dogra**
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0A66C2,50:7C3AED,100:111827&section=footer&text=Build%20fast.%20Measure%20impact.%20Iterate%20hard.&fontColor=ffffff&fontSize=22&fontAlignY=70" />
