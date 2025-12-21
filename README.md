@@ -4,7 +4,7 @@
 -->
 
 <!-- Top animated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Adhiraj%20Dogra&fontAlign=50&fontAlignY=36&desc=AI%20%2B%20Full-Stack%20Engineer%20%E2%80%A2%20Founder%20%40%20Ingenium%20(INCUBATE)%20%E2%80%A2%20Shipping%20Real%20Products&descAlign=50&descAlignY=60&color=0:0A66C2,50:7C3AED,100:111827&fontColor=ffffff&descColor=E5E7EB&animation=fadeIn&fontSize=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Adhiraj%20Dogra&fontAlign=50&fontAlignY=36&desc=AI%20%2B%20Full-Stack%20Engineer%20%E2%80%A2%20Shipping%20Real%20Products&descAlign=50&descAlignY=60&color=0:0A66C2,50:7C3AED,100:111827&fontColor=ffffff&descColor=E5E7EB&animation=fadeIn&fontSize=62" />
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 
 ---
 
-## 🌟 Highlight Projects (from my portfolio)
+## 🌟Projects 
 
 > Replace “(repo)” with your actual repository links whenever you publish them.
 
@@ -121,7 +121,7 @@
 
 ---
 
-## 📊 GitHub Analytics (clean + animated)
+## 📊 GitHub Analytics
 
 <div align="center">
 
