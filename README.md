@@ -143,16 +143,6 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
-
-<!--
-  This will work once you add the workflow below and the output file exists in your repo.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdiBoi007/AdiBoi007/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ## 🤝 Let’s Build Something Real
 
